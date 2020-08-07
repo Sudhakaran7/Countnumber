@@ -1,0 +1,46 @@
+You are given with a positive integer n, Count all numbers with unique digits, x, where 0 ≤ x < 10n.
+
+Input description:
+n an integer, (1<n<100)
+
+Output description:
+all numbers with unique digits
+
+Sample Input:
+2
+
+Sample Output:
+91
+
+Explanation:
+excluding 11,22,33,44,55,66,77,88,99 other numbers (0<=99) in this range will havve unique elements
+
+Sample Input:
+3
+
+Sample Output:
+739
+
+Sample Input:
+4
+
+Sample Output:
+5275
+
+Sample Input:
+6
+
+Sample Output:
+168571
+
+Sample Input:
+7
+
+Sample Output:
+712891
+
+Sample Input:
+9
+
+Sample Output:
+5611771
